@@ -1,0 +1,11 @@
+{
+  "name": "azure-static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Nothing to build for static HTML site'",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
